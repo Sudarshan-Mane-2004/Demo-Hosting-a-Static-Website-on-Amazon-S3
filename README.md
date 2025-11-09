@@ -81,13 +81,13 @@ You can now access each page as:
 > 📌 Add screenshots of your hosted pages below — just replace the image file names once you upload them into your repo’s `/images` folder.
 
 ### 🏠 Home Page
-![Home Page](images/homepage.png)
+![Home Page](homepage.png)
 
 ### ℹ️ About Page
-![About Page](images/aboutpage.png)
+![About Page](aboutpage.png)
 
 ### 📞 Contact Page
-![Contact Page](images/contactpage.png)
+![Contact Page](contactpage.png)
 
 ---
 
